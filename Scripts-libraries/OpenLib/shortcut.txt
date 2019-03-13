@@ -1,5 +1,0 @@
-process:
-ScriptingSystem:RunScript
-
-parameters:
-ProjectName=ScriptOpenLib.PrjScr|ProcName=OpenLib.pas>OpenLib

@@ -3,30 +3,56 @@ Version=1.0
 [Project1]
 ProjectPath=Antenna\Antenna.LibPkg
 [Project2]
-ProjectPath=Capacitors\Capacitors.LibPkg
-[Project3]
-ProjectPath=Connectors\Connector\Connectors.LibPkg
-[Project4]
 ProjectPath=Diodes\Diodes.LibPkg
-[Project5]
-ProjectPath=GSM Module\GSM Module.LibPkg
-[Project6]
+[Project3]
 ProjectPath=IC\IC.LibPkg
-[Project7]
+[Project4]
 ProjectPath=Inductor\Inductor.LibPkg
-[Project8]
+[Project5]
 ProjectPath=LED\LED.LibPkg
-[Project9]
+[Project6]
 ProjectPath=Optical\Optical.LibPkg
-[Project10]
-ProjectPath=Oscillator\Quartz crystals\Quartz crystals.LibPkg
-[Project11]
-ProjectPath=Resistors\Resistors.LibPkg
-[Project12]
+[Project7]
 ProjectPath=SD_SIM\Card_Connectors.LibPkg
-[Project13]
+[Project8]
 ProjectPath=Switch\Switch.LibPkg
-[Project14]
+[Project9]
 ProjectPath=Test Point\Test_Points.LibPkg
-[Project15]
+[Project10]
 ProjectPath=Transistor\Transistor.LibPkg
+[Project11]
+ProjectPath=Varistor\Varistor.LibPkg
+[Project12]
+ProjectPath=USB_Connector\USB_Connector\USB_Connector.LibPkg
+[Project13]
+ProjectPath=Battery Holder\Battery Holder.LibPkg
+[Project14]
+ProjectPath=Button\Button.LibPkg
+[Project15]
+ProjectPath=Capacitor\Capacitors.LibPkg
+[Project16]
+ProjectPath=Connector\Connectors.LibPkg
+[Project17]
+ProjectPath=Ferrite_Bead\Ferrite_Bead.LibPkg
+[Project18]
+ProjectPath=Fuse\Fuse.LibPkg
+[Project19]
+ProjectPath=LAN\LAN Transformer.LibPkg
+[Project20]
+ProjectPath=Linear Regulator\LDO.LibPkg
+[Project21]
+ProjectPath=Oscillator\Quartz crystals.LibPkg
+[Project22]
+ProjectPath=Pads\PADs.LibPkg
+[Project23]
+ProjectPath=Resistor\Resistors.LibPkg
+[Project24]
+ProjectPath=Terminal Block\Terminal_Block.LibPkg
+[Project25]
+ProjectPath=Terminal Block\ALTIUM-WR-TBL_RISING_CLAMP_SYSTEM-rev18b\ALTIUM-WR-TBL_RISING_CLAMP_SYSTEM-rev18b.LibPkg
+[Project26]
+ProjectPath=Transformer\Transformer.LibPkg
+[Project27]
+ProjectPath=Mechanical\Mechanical.LibPkg
+[Project28]
+ProjectPath=Module\Module.LibPkg
