@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SFWIDUMI
+DocumentUniqueId=FWHDCGNX
 
 [Document16]
 DocumentPath=reg_switching_buck.SchLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FWHDCGNX
+DocumentUniqueId=IJCWXAAX
 
 [Document19]
 DocumentPath=reg_sw_module.SchLib
@@ -545,7 +545,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ADLTTCFM
+DocumentUniqueId=JCUTVQNK
 
 [Document31]
 DocumentPath=power_mon_supervisor.SchLib
@@ -562,7 +562,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JCUTVQNK
+DocumentUniqueId=CSLLKOAM
 
 [Document32]
 DocumentPath=ICs.PcbLib
@@ -953,7 +953,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HWXCTGUW
+DocumentUniqueId=BARBAMDX
 
 [Document55]
 DocumentPath=logic_counter.SchLib
@@ -1330,6 +1330,108 @@ GenerateClassCluster=0
 DocumentUniqueId=RUEFYNDR
 
 [Document77]
+DocumentPath=STMicroelectronics STM32 L1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LVWTRLRD
+
+[Document78]
+DocumentPath=STMicroelectronics STM32 F4.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LBAUENCD
+
+[Document79]
+DocumentPath=STMicroelectronics STM32 F4.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCQKFAYB
+
+[Document80]
+DocumentPath=STMicroelectronics STM32 F0.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XMMPTPPP
+
+[Document81]
+DocumentPath=STMicroelectronics STM32 F0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXAEYVDM
+
+[Document82]
+DocumentPath=STMicroelectronics STM32 L1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVNKUGLT
+
+[Document83]
 DocumentPath=LDO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXHTMUDJ
 
-[Document78]
+[Document84]
 DocumentPath=mcu_8bit_avr_mega8-48-88-168-328.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETJRPKQP
 
-[Document79]
+[Document85]
 DocumentPath=ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQOSYLLI
 
-[Document80]
+[Document86]
 DocumentPath=amp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNTQOXCN
 
-[Document81]
+[Document87]
 DocumentPath=lcd_driver_ic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
